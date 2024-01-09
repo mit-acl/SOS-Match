@@ -4,17 +4,17 @@
 
 ## Authors
 
-- [Jouko Kinnari*](https://www.author1website.com)
+- [Jouko Kinnari*](https://www.linkedin.com/in/jouko-kinnari/)
 - [Annika Thomas*](https://www.annikathomas.com)
-- [Parker Lusk](https://www.author3website.com)
-- [Kota Kondo](https://www.author3website.com)
-- [Jonathan How](https://www.author3website.com)
+- [Parker Lusk](https://plusk01.github.io/)
+- [Kota Kondo](https://www.linkedin.com/in/kkondo/?locale=en_US)
+- [Jonathan How](https://www.mit.edu/~jhow/)
 
 ## Links
 
 - **Code**: [GitHub Repository](https://github.com/yourusername/sos-slam)
-- **Paper**: [Research Paper](https://arxiv.org/your-paper-link)
-- **Datasets**: [Dataset Repository](https://github.com/yourusername/sos-slam-datasets)
+- **Paper**: [Research Paper](https://drive.google.com/file/d/1b7TZhalVafbWrrrUepgkYl8vfeb106AZ/view?usp=sharing)
+- **Datasets**: [Dataset Repository](https://www.dropbox.com/scl/fo/he8rq4ucgywmoha2y95zp/h?rlkey=cwt7q9whl4koelo4raiaptlfg&dl=0)
 
 ## Abstract
 
