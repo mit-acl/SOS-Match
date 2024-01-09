@@ -26,7 +26,7 @@ Insert an image here that represents the SOS-SLAM project.
 
 ![SOS-SLAM Image](image.jpg)
 
-## Demo
+<!-- ## Demo -->
 
 You can view a live demo of SOS-SLAM [here](https://yourdemo.com).
 
