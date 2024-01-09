@@ -28,12 +28,12 @@ Insert an image here that represents the SOS-SLAM project.
 
 <!-- ## Demo -->
 
-You can view a live demo of SOS-SLAM [here](https://yourdemo.com).
+<!-- You can view a live demo of SOS-SLAM [here](https://yourdemo.com). -->
 
-## Video Links
+<! -- ## Video Links
 
 - [Introduction Video](https://www.youtube.com/watch?v=your-intro-video)
-- [Tutorial Video](https://www.youtube.com/watch?v=your-tutorial-video)
-- 
+- [Tutorial Video](https://www.youtube.com/watch?v=your-tutorial-video) -->
+  
 # Website License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
