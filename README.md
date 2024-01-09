@@ -20,17 +20,17 @@
 
 We present a novel framework for open-set Simultaneous Localization and Mapping (SLAM) in unstructured environments that uses segmentation to create a map of objects and geometric relationships between objects for localization. Our system consists of 1) a front-end mapping pipeline using a zero-shot segmentation model to extract object masks from images and track them across frames to generate an object-based map and 2) a frame alignment pipeline that uses the geometric consistency of objects to efficiently localize within maps taken in a variety of conditions. This approach is shown to be more robust to changes in lighting and appearance than traditional feature-based SLAM systems or global descriptor methods. This is established by evaluating SOS-SLAM on the Batvik seasonal dataset which includes drone flights collected over a coastal plot of southern Finland during different seasons and lighting conditions. Across flights during varying environmental conditions, our approach achieves higher recall than benchmark methods with precision of 1.0. SOS-SLAM localizes within a reference map up to 14x faster than other feature-based approaches and has a map size less than 0.4% the size of the most compact other maps. When considering localization performance from varying viewpoints, our approach outperforms all benchmarks from the same viewpoint and most benchmarks from different viewpoints. SOS-SLAM is a promising new approach for SLAM in unstructured environments that is robust to changes in lighting and appearance and is more computationally efficient than other approaches. We release our code and datasets: https://acl.mit.edu/SOS-SLAM/.
 
-## Image
+<!-- ## Image -->
 
-Insert an image here that represents the SOS-SLAM project.
+<!-- Insert an image here that represents the SOS-SLAM project. -->
 
-![SOS-SLAM Image](image.jpg)
+<!-- ![SOS-SLAM Image](image.jpg) -->
 
 <!-- ## Demo -->
 
 <!-- You can view a live demo of SOS-SLAM [here](https://yourdemo.com). -->
 
-<! -- ## Video Links -->
+<!-- ## Video Links -->
 
 <!-- - [Introduction Video](https://www.youtube.com/watch?v=your-intro-video) -->
 <!-- - [Tutorial Video](https://www.youtube.com/watch?v=your-tutorial-video) -->
