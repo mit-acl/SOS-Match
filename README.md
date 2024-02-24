@@ -1,6 +1,6 @@
-# SOS-SLAM
+# SOS-Match
 
-**Segmentation for Open-Set Simultaneous Localization and Mapping in Unstructured Environments** is a research project aimed at achieving efficient and accurate SLAM using sparsity.
+**Segmentation for Open-Set Robust Correspondence Search and Robot Localization in Unstructured Environments** is a research project aimed at achieving efficient and accurate frame alignment between agents using sparsity.
 
 ## Authors
 
